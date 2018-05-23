@@ -1,1 +1,1 @@
-{"type": "Feature", "properties": {"name": "01FCB"}, "geometry": {"type": "Polygon", "coordinates": []}}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}, "properties": {"name": "01FCB"}}]}
