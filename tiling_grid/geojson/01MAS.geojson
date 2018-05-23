@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -2.711340700389278], [-179.61131431181735, -2.7123401797195705], [-179.61382889114375, -3.7026642293473007], [-179.99899999999997, -3.70130826721827], [-179.99899999999997, -2.711340700389278]]]}, "properties": {"name": "01MAS"}}]}
+{"features": [{"properties": {"name": "01MAS"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

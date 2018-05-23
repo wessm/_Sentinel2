@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 3.6129532666150586], [-179.61357272474308, 3.614277795078276], [-179.6111277817092, 2.6239518788745664], [-179.99899999999997, 2.622984492196306], [-179.99899999999997, 3.6129532666150586]]]}, "properties": {"name": "01NAD"}}]}
+{"features": [{"properties": {"name": "01NAD"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

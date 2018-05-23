@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 31.5983513972564], [-179.73671542295978, 31.592831792457048], [-179.7703370302819, 30.60569204270708], [-179.99899999999997, 30.610368940907406], [-179.99899999999997, 31.5983513972564]]]}, "properties": {"name": "60RYV"}}]}
+{"features": [{"properties": {"name": "60RYV"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

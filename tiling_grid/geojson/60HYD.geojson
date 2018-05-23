@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -37.007554287879245], [-179.52039236223115, -36.995994103943026], [-179.47428879947032, -37.98184411814441], [-179.99899999999997, -37.99480425644743], [-179.99899999999997, -37.007554287879245]]]}, "properties": {"name": "60HYD"}}]}
+{"features": [{"properties": {"name": "60HYD"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -23.481678450753762], [-179.8425783569337, -23.48507116781861], [-179.8643645460327, -24.473584060397798], [-179.99899999999997, -24.470548437826768], [-179.99899999999997, -23.481678450753762]]]}, "properties": {"name": "01KAP"}}]}
+{"features": [{"properties": {"name": "01KAP"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

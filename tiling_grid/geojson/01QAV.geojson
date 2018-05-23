@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 18.064247391248628], [-179.74287793245398, 18.06857352078125], [-179.72800276020715, 17.079224903516273], [-179.99899999999997, 17.07489058186516], [-179.99899999999997, 18.064247391248628]]]}, "properties": {"name": "01QAV"}}]}
+{"features": [{"properties": {"name": "01QAV"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

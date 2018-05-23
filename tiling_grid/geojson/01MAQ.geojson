@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -4.51801097176359], [-179.6164922357632, -4.519653286600636], [-179.6204384441488, -5.5099277776201445], [-179.99899999999997, -5.507946534912517], [-179.99899999999997, -4.51801097176359]]]}, "properties": {"name": "01MAQ"}}]}
+{"features": [{"properties": {"name": "01MAQ"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 57.70301151038844], [-179.48082037252365, 57.69236521272204], [-179.57319868728322, 56.70981944827127], [-179.99899999999997, 56.718472359982634], [-179.99899999999997, 57.70301151038844]]]}, "properties": {"name": "60VXJ"}}]}
+{"features": [{"properties": {"name": "60VXJ"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -26.18872598289055], [-179.90180826119118, -26.187001954729055], [-179.87495481835916, -27.174918849664678], [-179.99899999999997, -27.17719591082196], [-179.99899999999997, -26.18872598289055]]]}, "properties": {"name": "60JYR"}}]}
+{"features": [{"properties": {"name": "60JYR"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

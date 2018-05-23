@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 55.00731991544969], [-179.7205058387428, 55.00177253924903], [-179.79842789310197, 54.01855992497895], [-179.99899999999997, 54.02250695873375], [-179.99899999999997, 55.00731991544969]]]}, "properties": {"name": "60UXF"}}]}
+{"features": [{"properties": {"name": "60UXF"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

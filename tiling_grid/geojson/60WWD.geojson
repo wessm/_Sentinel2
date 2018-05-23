@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 71.1774366478782], [-179.95130285855015, 71.17704881930675], [-179.99899999999997, 70.85538684701406], [-179.99899999999997, 71.1774366478782]]]}, "properties": {"name": "60WWD"}}]}
+{"features": [{"properties": {"name": "60WWD"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

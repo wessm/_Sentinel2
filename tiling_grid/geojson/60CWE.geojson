@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -72.07551195360914], [-179.80406727146146, -72.07391880985077], [-179.62485641710867, -73.05463348535834], [-179.99899999999997, -73.05770758488316], [-179.99899999999997, -72.07551195360914]]]}, "properties": {"name": "60CWE"}}]}
+{"features": [{"properties": {"name": "60CWE"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -83.6960530387601], [-179.92166863688183, -83.7573406572457], [-179.99899999999997, -83.75800164203645], [-179.99899999999997, -83.6960530387601]]]}, "properties": {"name": "59CNH"}}]}
+{"features": [{"properties": {"name": "59CNH"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

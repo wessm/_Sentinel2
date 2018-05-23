@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 1.8062605409581005], [-179.60969688060368, 1.806929922869246], [-179.60867072488426, 0.81657725073269], [-179.99899999999997, 0.8162744470656469], [-179.99899999999997, 1.8062605409581005]]]}, "properties": {"name": "01NAB"}}]}
+{"features": [{"properties": {"name": "01NAB"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

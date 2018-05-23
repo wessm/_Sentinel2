@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 8.129676671727387], [-179.63473737978583, 8.1324849342451], [-179.62867671702045, 7.142320716147473], [-179.99899999999997, 7.13981196543482], [-179.99899999999997, 8.129676671727387]]]}, "properties": {"name": "01NAJ"}}]}
+{"features": [{"properties": {"name": "01NAJ"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -5.42159471920045], [-179.62006276392148, -5.4235462231065386], [-179.62473189131697, -6.413787814802957], [-179.99899999999997, -6.411509091942585], [-179.99899999999997, -5.42159471920045]]]}, "properties": {"name": "01MAP"}}]}
+{"features": [{"properties": {"name": "01MAP"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, -23.48199738120466], [-179.96851293692376, -23.481508944147194], [-179.9452683976223, -24.46985241225265], [-179.99899999999997, -24.470747272072227], [-179.99899999999997, -23.48199738120466]]]}, "properties": {"name": "60KYU"}}]}
+{"features": [{"properties": {"name": "60KYU"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}

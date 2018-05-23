@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-179.99899999999997, 25.284841319196303], [-179.88320353193052, 25.287533165148663], [-179.8604338605463, 24.29914238381436], [-179.99899999999997, 24.2960392294831], [-179.99899999999997, 25.284841319196303]]]}, "properties": {"name": "01RAH"}}]}
+{"features": [{"properties": {"name": "01RAH"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
