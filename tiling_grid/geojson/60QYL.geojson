@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60QYL"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 23.481554695000057], [-179.967524165, 23.481034384000054], [-179.989575805, 22.490545697000073], [-179.99999999999997, 22.490706055000032], [-179.99999999999997, 23.481554695000057]]], "type": "Polygon"}, "properties": {"name": "60QYL"}, "type": "Feature"}], "type": "FeatureCollection"}

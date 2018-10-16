@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01UBS"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 51.41129617300004], [-179.73581781999997, 51.41924897900003], [-179.67853078299999, 50.43296279000003], [-179.99999999999997, 50.423418878000064], [-179.99999999999997, 51.41129617300004]]], "type": "Polygon"}, "properties": {"name": "01UBS"}, "type": "Feature"}], "type": "FeatureCollection"}

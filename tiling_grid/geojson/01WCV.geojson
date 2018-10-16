@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01WCV"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 72.07387014900007], [-179.62752063499997, 72.08193468600007], [-179.49542658, 71.09848921000008], [-179.99999999999997, 71.08762856500005], [-179.99999999999997, 72.07387014900007]]], "type": "Polygon"}, "properties": {"name": "01WCV"}, "type": "Feature"}], "type": "FeatureCollection"}

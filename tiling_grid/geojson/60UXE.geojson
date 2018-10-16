@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60UXE"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 54.10942736700008], [-179.79073991499996, 54.10530483500003], [-179.86467963099997, 53.11988062100005], [-179.99999999999997, 53.122513265000066], [-179.99999999999997, 54.10942736700008]]], "type": "Polygon"}, "properties": {"name": "60UXE"}, "type": "Feature"}], "type": "FeatureCollection"}

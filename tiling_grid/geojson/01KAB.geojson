@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01KAB"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -16.25907111899994], [-179.71546105599998, -16.263411193999957], [-179.72957180799997, -17.25485014399993], [-179.99999999999997, -17.25048161199993], [-179.99999999999997, -16.25907111899994]]], "type": "Polygon"}, "properties": {"name": "01KAB"}, "type": "Feature"}], "type": "FeatureCollection"}

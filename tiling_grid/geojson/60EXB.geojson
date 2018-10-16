@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60EXB"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -56.80536835399994], [-179.56428365099998, -56.79650515099996], [-179.47118529199997, -57.78102480899997], [-179.99999999999997, -57.79190001099994], [-179.99999999999997, -56.80536835399994]]], "type": "Polygon"}, "properties": {"name": "60EXB"}, "type": "Feature"}], "type": "FeatureCollection"}

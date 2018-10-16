@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01LAH"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -10.840493826999932], [-179.654533782, -10.844035017999943], [-179.66371364599996, -11.835968326999932], [-179.99999999999997, -11.832210436999958], [-179.99999999999997, -10.840493826999932]]], "type": "Polygon"}, "properties": {"name": "01LAH"}, "type": "Feature"}], "type": "FeatureCollection"}

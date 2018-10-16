@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60EXA"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -57.70349319899998], [-179.47977627399996, -57.69280496699997], [-179.38098521899997, -58.67709200199994], [-179.99999999999997, -58.689944938999986], [-179.99999999999997, -57.70349319899998]]], "type": "Polygon"}, "properties": {"name": "60EXA"}, "type": "Feature"}], "type": "FeatureCollection"}

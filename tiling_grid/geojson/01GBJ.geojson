@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01GBJ"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -46.01210531899994], [-179.45782512299996, -46.02713964499998], [-179.50277836099997, -47.01436005499994], [-179.99999999999997, -47.00034677799994], [-179.99999999999997, -46.01210531899994]]], "type": "Polygon"}, "properties": {"name": "01GBJ"}, "type": "Feature"}], "type": "FeatureCollection"}

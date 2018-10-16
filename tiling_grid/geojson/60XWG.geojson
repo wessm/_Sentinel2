@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60XWG"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 73.86751872600007], [-179.459437698, 73.86305886000008], [-179.65718239399996, 72.88058164000006], [-179.99999999999997, 72.88339575200007], [-179.99999999999997, 73.86751872600007]]], "type": "Polygon"}, "properties": {"name": "60XWG"}, "type": "Feature"}], "type": "FeatureCollection"}

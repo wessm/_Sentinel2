@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01PAS"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 15.356453170000066], [-179.70343782799998, 15.360732089000066], [-179.69111514099998, 14.369099946000063], [-179.99999999999997, 14.364924365000036], [-179.99999999999997, 15.356453170000066]]], "type": "Polygon"}, "properties": {"name": "01PAS"}, "type": "Feature"}], "type": "FeatureCollection"}

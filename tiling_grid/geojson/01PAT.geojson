@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01PAT"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 16.259071119000055], [-179.71546105599998, 16.26341119400007], [-179.70229602199998, 15.27186843800007], [-179.99999999999997, 15.267597271000056], [-179.99999999999997, 16.259071119000055]]], "type": "Polygon"}, "properties": {"name": "01PAT"}, "type": "Feature"}], "type": "FeatureCollection"}

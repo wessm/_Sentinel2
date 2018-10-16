@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01FCB"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[180.0000000000001, -53.29925618599998], [179.998654191, -53.29923160499993], [180.0000000000001, -53.279484164999985], [180.0000000000001, -53.29925618599998]]], "type": "Polygon"}, "properties": {"name": "01FCB"}, "type": "Feature"}], "type": "FeatureCollection"}

@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01XCA"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 72.97186926000006], [-179.76128773099998, 72.97706401500005], [-179.61508342799996, 71.99380914400007], [-179.99999999999997, 71.98547961100007], [-179.99999999999997, 72.97186926000006]]], "type": "Polygon"}, "properties": {"name": "01XCA"}, "type": "Feature"}], "type": "FeatureCollection"}

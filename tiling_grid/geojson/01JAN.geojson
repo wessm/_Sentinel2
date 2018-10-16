@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01JAN"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -24.383271691999937], [-179.86139420099997, -24.386386287999983], [-179.88431844699997, -25.376763945999983], [-179.99999999999997, -25.37406603599993], [-179.99999999999997, -24.383271691999937]]], "type": "Polygon"}, "properties": {"name": "01JAN"}, "type": "Feature"}], "type": "FeatureCollection"}

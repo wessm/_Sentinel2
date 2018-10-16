@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60KYA"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, -21.99614647599998], [-179.98573649699998, -22.667003889999933], [-179.99999999999997, -22.667224936999958], [-179.99999999999997, -21.99614647599998]]], "type": "Polygon"}, "properties": {"name": "60KYA"}, "type": "Feature"}], "type": "FeatureCollection"}

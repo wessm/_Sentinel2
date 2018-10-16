@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01CDV"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[180.0000000000001, -73.06084790499995], [179.92263953500003, -73.06032515499999], [180.0000000000001, -72.59588562599998], [180.0000000000001, -73.06084790499995]]], "type": "Polygon"}, "properties": {"name": "01CDV"}, "type": "Feature"}], "type": "FeatureCollection"}

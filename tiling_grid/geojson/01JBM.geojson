@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "01JBM"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[180.0000000000001, -26.276307393999957], [179.9959087200001, -26.276237374999937], [180.0000000000001, -26.113283086999957], [180.0000000000001, -26.276307393999957]]], "type": "Polygon"}, "properties": {"name": "01JBM"}, "type": "Feature"}], "type": "FeatureCollection"}

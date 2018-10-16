@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60SYB"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 33.40215130100006], [-179.66990292299997, 33.394854860000066], [-179.70674436799996, 32.40606101800006], [-179.99999999999997, 32.41237331900004], [-179.99999999999997, 33.40215130100006]]], "type": "Polygon"}, "properties": {"name": "60SYB"}, "type": "Feature"}], "type": "FeatureCollection"}

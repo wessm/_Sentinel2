@@ -1,1 +1,1 @@
-{"features": [{"properties": {"name": "60WWE"}, "type": "Feature", "geometry": {"type": "Polygon", "coordinates": []}}], "type": "FeatureCollection"}
+{"features": [{"geometry": {"coordinates": [[[-179.99999999999997, 72.07505793000007], [-179.80314203099996, 72.07344904700005], [-179.96375828599997, 71.09047477800004], [-179.99999999999997, 71.09076931000004], [-179.99999999999997, 72.07505793000007]]], "type": "Polygon"}, "properties": {"name": "60WWE"}, "type": "Feature"}], "type": "FeatureCollection"}
